@@ -8,3 +8,5 @@ path('categorias/', views.categorias, name='categorias'),
 path('productos/', views.productos, name='productos'),
 path('creditos/', views.creditos, name='creditos'),
 ]
+
+
